@@ -1,0 +1,24 @@
+13 de Enero de 2017 a las 15:26 UTC
+
+Name: SANTA MONICA BAY, CA
+Station: 02801
+Deployment latitude: 33 51.274' N
+Deployment longitude: 118 37.958' W
+Water depth(m):  363.00
+Local magnetic variation(deg): 12 E
+Data type: Datawell vectors
+Gauge type: Datawell Mark 3 directional buoy
+Sample rate(Hz): 1.280
+Field software version: datawell_acq v2
+Field station type: sun
+Method of analysis: Datawell
+GPS: yes
+
+Start time: 20170113152600 UTC
+End time:   20170113155559 UTC
+Sample length(hh:mm:ss): 00:30:00
+Total number of vectors:  2304
+Error-free vectors: 100.0%
+
+Unidades:cm
+
